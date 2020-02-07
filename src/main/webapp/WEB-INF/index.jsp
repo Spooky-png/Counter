@@ -7,8 +7,6 @@
 <title>Home Page</title>
 </head>
 <body>
-<a href="/time">Time Template</a>
-<a href="/date">Date Template</a>
-
+<p>Welcome person</p>
 </body>
 </html>
